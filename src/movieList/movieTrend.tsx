@@ -1,6 +1,6 @@
 import { Box, Grid, Paper } from '@mui/material';
-import React from 'react'
-import Movies from '../pages/movies';
+// import React from 'react'
+// import Movies from '../pages/movies';
 import { MovieDataType } from '../assets/data';
 import MovieTrendCard from '../components/movie-card/movieTrend';
 interface MovieTrendListProps{

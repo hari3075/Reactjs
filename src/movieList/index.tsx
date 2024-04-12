@@ -1,7 +1,7 @@
 import React from 'react'
 import { MovieDataType } from '../assets/data'
 import { Box, Grid, Paper } from '@mui/material';
-import MovieTrendingList from './movieTrend';
+// import MovieTrendingList from './movieTrend';
 import MovieCard from '../components/movie-card';
 
 interface MovieListProps{
